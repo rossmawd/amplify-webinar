@@ -1,0 +1,20 @@
+{
+    "vscode": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ampwebinar-vscode-204209-authRole",
+            "UnauthRoleArn": "arn:aws:iam::417627435483:role/amplify-ampwebinar-vscode-204209-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::417627435483:role/amplify-ampwebinar-vscode-204209-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-ampwebinar-vscode-204209-deployment",
+            "UnauthRoleName": "amplify-ampwebinar-vscode-204209-unauthRole",
+            "StackName": "amplify-ampwebinar-vscode-204209",
+            "StackId": "arn:aws:cloudformation:eu-west-2:417627435483:stack/amplify-ampwebinar-vscode-204209/e1dce230-13b1-11ea-bc0d-06af0f49b59c",
+            "AmplifyAppId": "d2kewxkuyjigcw"
+        },
+        "categories": {
+            "auth": {
+                "ampwebinar27108aee": {}
+            }
+        }
+    }
+}
