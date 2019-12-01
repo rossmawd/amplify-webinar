@@ -16,5 +16,23 @@
                 "ampwebinar27108aee": {}
             }
         }
+    },
+    "develop": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ampwebinar-develop-140425-authRole",
+            "UnauthRoleArn": "arn:aws:iam::417627435483:role/amplify-ampwebinar-develop-140425-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::417627435483:role/amplify-ampwebinar-develop-140425-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-ampwebinar-develop-140425-deployment",
+            "UnauthRoleName": "amplify-ampwebinar-develop-140425-unauthRole",
+            "StackName": "amplify-ampwebinar-develop-140425",
+            "StackId": "arn:aws:cloudformation:eu-west-2:417627435483:stack/amplify-ampwebinar-develop-140425/7d624ce0-1443-11ea-9f4f-0617023ccf6e",
+            "AmplifyAppId": "d2kewxkuyjigcw"
+        },
+        "categories": {
+            "auth": {
+                "ampwebinar61db5b00": {}
+            }
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "ampwebinar27108aee_identitypool_27108aee",
+    "identityPoolName": "ampwebinar61db5b00_identitypool_61db5b00",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "ampweb27108aee",
-    "userPoolName": "ampwebinar27108aee_userpool_27108aee",
+    "resourceNameTruncated": "ampweb61db5b00",
+    "userPoolName": "ampwebinar61db5b00_userpool_61db5b00",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,9 +28,9 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "ampweb27108aee_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "ampweb61db5b00_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "resourceName": "ampwebinar27108aee",
+    "resourceName": "ampwebinar61db5b00",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
@@ -45,6 +45,9 @@
         ]
     },
     "useDefault": "default",
+    "usernameAttributes": [
+        "email"
+    ],
     "userPoolGroupList": [],
     "dependsOn": []
 }

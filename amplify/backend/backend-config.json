@@ -1,6 +1,6 @@
 {
 	"auth": {
-		"ampwebinar27108aee": {
+		"ampwebinar61db5b00": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation",
 			"dependsOn": []
