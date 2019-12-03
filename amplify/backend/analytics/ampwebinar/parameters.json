@@ -1,0 +1,20 @@
+{
+    "appName": "ampwebinar",
+    "roleName": "pinpointLambdaRoleeeb93b57",
+    "cloudWatchPolicyName": "cloudWatchPolicyeeb93b57",
+    "pinpointPolicyName": "pinpointPolicyeeb93b57",
+    "authPolicyName": "pinpoint_amplify_eeb93b57",
+    "unauthPolicyName": "pinpoint_amplify_eeb93b57",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

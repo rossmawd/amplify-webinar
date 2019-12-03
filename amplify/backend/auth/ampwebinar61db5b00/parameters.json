@@ -1,6 +1,6 @@
 {
     "identityPoolName": "ampwebinar61db5b00_identitypool_61db5b00",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "ampweb61db5b00",
     "userPoolName": "ampwebinar61db5b00_userpool_61db5b00",
     "autoVerifiedAttributes": [
